@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Ton Bébé ブログ",
+  "siteUrl": "https://angry-benz-abe252.netlify.app/",
+  "description": "Ton BébéはSNS型の精子提供マッチングサービスです。<br/>このブログでは精子提供で妊娠を考えている方や、ドナー登録をご検討中のみなさまへ向けた情報を発信しています。",
   "home": {
-    "title": "Hi! I'm Delog. I'm loving it!",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Ton Bébé ブログ",
+    "description": "Ton BébéはSNS型の精子提供マッチングサービスです。<br/>このブログでは精子提供で妊娠を考えている方や、ドナー登録をご検討中のみなさまへ向けた情報を発信しています。"
   }
 }
