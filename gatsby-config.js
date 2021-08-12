@@ -44,11 +44,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `Ton Bébé ブログ`,
+        short_name: `Ton Bébé blog`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#381696`,
+        theme_color: `#82be28`,
         display: `standalone`,
         icon: "src/images/icon.png",
       },
